@@ -1,0 +1,158 @@
+{
+  "todos": [],
+  "outfits": [
+    {
+      "name": "Outfit 11/30/2025 12:26:38 AM",
+      "image": "https://res.cloudinary.com/dmjzidsiy/image/upload/v1764480397/dwwkhoxdwax3gbyqp9jz.png",
+      "items": [
+        2
+      ],
+      "createdAt": "2025-11-30T05:26:38.338Z",
+      "id": 1
+    }
+  ],
+  "clothes": [
+    {
+      "clothingtype": "bags",
+      "color": [
+        "purple"
+      ],
+      "season": [
+        "fall"
+      ],
+      "occasion": [
+        "specialoccasion"
+      ],
+      "brand": "forever21",
+      "size": "oneSize",
+      "material": [
+        "cotton"
+      ],
+      "pattern": [
+        "plaid"
+      ],
+      "image": "https://res.cloudinary.com/dmjzidsiy/image/upload/v1764214269/xjhkiewsoktd53ck5pyj.webp",
+      "id": 1
+    },
+    {
+      "clothingtype": "tops",
+      "color": [
+        "red"
+      ],
+      "season": [
+        "winter"
+      ],
+      "occasion": [
+        "specialoccasion"
+      ],
+      "brand": "americanEagle",
+      "size": "small",
+      "material": [
+        "denim"
+      ],
+      "pattern": [
+        "camouflage"
+      ],
+      "image": "https://res.cloudinary.com/dmjzidsiy/image/upload/v1764221440/a8efsuk9njrqmnmi0w2g.webp",
+      "id": 2
+    },
+    {
+      "clothingtype": "tops",
+      "color": [
+        "purple"
+      ],
+      "season": [
+        "summer"
+      ],
+      "occasion": [
+        "specialoccasion"
+      ],
+      "brand": "bananaRepublic",
+      "size": "small",
+      "material": [
+        "cotton"
+      ],
+      "pattern": [
+        "camouflage"
+      ],
+      "image": "https://res.cloudinary.com/dmjzidsiy/image/upload/v1764263584/dywjybbyoczq9yxeoi5p.webp",
+      "id": 3
+    },
+    {
+      "clothingtype": "tops",
+      "color": [
+        "green"
+      ],
+      "season": [
+        "fall"
+      ],
+      "occasion": [
+        "weekend"
+      ],
+      "brand": "gap",
+      "size": "oneSize",
+      "material": [
+        "leather"
+      ],
+      "pattern": [
+        "floral"
+      ],
+      "image": "https://res.cloudinary.com/dmjzidsiy/image/upload/e_background_removal/v1764264188/zt7hnzicle4oiveuia2e.jpg?_a=DATAiZAAZAA0",
+      "id": 4
+    },
+    {
+      "clothingtype": "dresses",
+      "color": [
+        "red",
+        "orange"
+      ],
+      "season": [
+        "winter",
+        "summer"
+      ],
+      "occasion": [
+        "specialoccasion",
+        "weekend"
+      ],
+      "brand": "americanEagle",
+      "size": "small",
+      "material": [
+        "cashmere",
+        "leather"
+      ],
+      "pattern": [
+        "camouflage",
+        "floral"
+      ],
+      "image": "https://res.cloudinary.com/dmjzidsiy/image/upload/e_background_removal/v1764274694/esgqpuqjxvoidee09ju9.jpg?_a=DATAiZAAZAA0",
+      "id": 5
+    },
+    {
+      "clothingtype": "tops",
+      "color": [
+        "blue",
+        "orange"
+      ],
+      "season": [
+        "winter",
+        "fall"
+      ],
+      "occasion": [
+        "specialoccasion",
+        "nightOut"
+      ],
+      "brand": "forever21",
+      "size": "oneSize",
+      "material": [
+        "cotton",
+        "denim"
+      ],
+      "pattern": [
+        "floral",
+        "camouflage"
+      ],
+      "image": "https://res.cloudinary.com/dmjzidsiy/image/upload/e_background_removal/v1764274729/wtgibph3nkyqvcuzetjc.jpg?_a=DATAiZAAZAA0",
+      "id": 6
+    }
+  ]
+}
